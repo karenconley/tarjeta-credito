@@ -1,4 +1,4 @@
-# tarjeta de credito pseudocódigo
+# Pseudocódigo tarjeta de crédito
 
 Se pregunta por el número de la tarjeta
 Se invierten los números en un array
